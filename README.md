@@ -34,9 +34,9 @@ It showcases my projects, skills, and contact details in a clean and interactive
 ## 📬 Contact
 If you’d like to connect or collaborate, feel free to reach out:
 
-- **Email:** yourname@email.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** sknaziacse@gmail.com 
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shaik-nazia-022744381/)  
+- **GitHub:** [Your GitHub Profile](https://github.com/shaik-nazia-cse)
 
 ---
 
