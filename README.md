@@ -27,7 +27,7 @@ It showcases my projects, skills, and contact details in a clean and interactive
 ---
 
 ## 🌍 Live Demo
-🔗 [Click here to view my portfolio](https://your-username.github.io/your-repo-name/)
+🔗 [Click here to view my portfolio](https://my-portfolio-theta-dun-11.vercel.app/)
 
 ---
 
